@@ -1,4 +1,4 @@
-const password = {}
+let password = {};
 
 function handleFloatingLabel() {
    
